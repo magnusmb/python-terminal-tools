@@ -1,0 +1,11 @@
+comment: 2;37
+module: 0;34
+boolean: 0;36
+number: 0;35
+string: 0;32
+bracket: 0;31
+conditional: 0;31
+import: 0;33
+type: 0;31
+let: 0;33
+function-def: 0;35

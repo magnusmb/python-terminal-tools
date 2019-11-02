@@ -1,0 +1,10 @@
+"(\{-([^{]*?|(?R))*-\})|--.*": comment
+""""\n(.*\n)*?"""|('|").*?\2": string
+"\b(module|import|as|exposing)\b": module
+"\b(True|False)\b": boolean
+"\b\d+(\.\d+)?\b": number
+"[\[\]\(\)\{\},]": bracket
+"\b(if|else|then|case|of)\b": conditional
+"\b[A-Z]\w*\.\b": import
+"\b[A-Z]\w*\b": type
+"\b(let|in|type( alias)?)\b": let

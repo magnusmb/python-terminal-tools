@@ -1,0 +1,4 @@
+Dette er en tekst
+som skal
+diffes.
+Dette blir spennende.

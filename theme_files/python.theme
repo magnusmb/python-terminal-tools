@@ -1,0 +1,10 @@
+comment: 2;39
+string: 0;32
+statement: 0;36
+statement-block: 0;33
+keyword: 1;34
+number: 0;37
+expression: 0;35
+function: 0;31
+class: 1;31
+decorator: 1;33

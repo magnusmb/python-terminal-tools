@@ -1,0 +1,7 @@
+Dette er en tekst
+Dette er en tekst
+Dette er en tekst
+som skal
+diffes.
+Dette blir
+spennende.
